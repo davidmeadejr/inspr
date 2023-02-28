@@ -24,7 +24,7 @@ Potential future features to add:
 
 ## How to use the Project
 
-- ![INSPR](https://wwww.inspr.fyi)
+- ![www.inspr.fyi](https://wwww.inspr.fyi)
 
 ---
 
