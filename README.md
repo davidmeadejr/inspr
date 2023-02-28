@@ -12,7 +12,8 @@ What the application does:
 Technologies used and why:
 
 - Frontend: React
-- UX/UI: Galileo AI + Tailwind
+- UX/UI: Galileo AI
+- Styling: Tailwind
 - Backend: Node.js
 - Database: PostgreSQL
 - Languages: JavaScript
