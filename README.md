@@ -4,7 +4,10 @@
 
 What the application does:
 
-- Curated tweets of ideas, from consumers, for builders.
+- Explore tweets from Twitter users sharing startup and business ideas.
+- Discover categorised tweets by industry.
+- Filter the feed based on industry or industries.
+- View the original tweet on Twitter.
 
 Technologies used and why:
 
