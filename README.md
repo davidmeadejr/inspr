@@ -4,7 +4,7 @@
 
 What the application does:
 
-- Explore tweets from Twitter users sharing startup and business ideas.
+- Explore tweets from Twitter users sharing startup and business ideas they would like built.
 - Discover categorised tweets by industry.
 - Filter the feed based on industry or industries.
 - View the original tweet on Twitter.
