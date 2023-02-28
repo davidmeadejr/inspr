@@ -1,5 +1,3 @@
-### TODO
-
 # INSPR
 
 ## Project Description
