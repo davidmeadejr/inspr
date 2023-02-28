@@ -4,7 +4,7 @@
 
 What the application does:
 
-- Curated tweets of ideas, by consumers, for builders.
+- Curated tweets of ideas, from consumers, for builders.
 
 Technologies used and why:
 
