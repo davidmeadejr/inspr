@@ -24,7 +24,7 @@ Potential future features to add:
 
 ## How to use the Project
 
-- TODO
+- ![INSR](https://wwww.inspr.fyi)
 
 ---
 
