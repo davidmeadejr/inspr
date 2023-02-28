@@ -11,7 +11,12 @@ What the application does:
 
 Technologies used and why:
 
-- TODO
+- Frontend: React
+- UX/UI: Galileo AI + Tailwind
+- Backend: Node.js
+- Database: PostgreSQL
+- Languages: JavaScript
+- Version Control: GitHub
 
 Challenges faced:
 
