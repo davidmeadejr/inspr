@@ -33,7 +33,7 @@ Potential future features to add:
 
 ## How to use the Project
 
-- ![www.inspr.fyi](https://wwww.inspr.space)
+- ![www.inspr.space](https://wwww.inspr.space)
 
 ---
 
