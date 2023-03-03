@@ -16,7 +16,7 @@ Technologies used and why:
 - Styling: Tailwind CSS
 - Backend: Node.js
 - Database: PostgreSQL
-- Languages: JavaScript
+- Languages: TypeScript
 - Version Control: GitHub
 
 Challenges faced:
