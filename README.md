@@ -9,12 +9,12 @@ What the application does:
 - Filter the feed based on industry or industries.
 - View the original tweets on Twitter.
 
-Technologies used and why:
+Technologies used:
 
 - Frontend: React
 - UX/UI: Galileo AI
 - Styling: Tailwind CSS
-- Backend: Node.js
+- Backend: Node.js, Twitter API
 - Database: PostgreSQL
 - Languages: JavaScript
 - Version Control: GitHub
